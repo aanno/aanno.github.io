@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://aanno.github.io
+title: Netzgeneration
+tagline: A log of a decent IT nerd
+description: A irregular blog of IT problem solutions I fell about.
+paginate: 5
